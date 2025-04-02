@@ -1,4 +1,4 @@
-package net.javaguides.banking.dto;
+package com.riksonpereira.banking.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

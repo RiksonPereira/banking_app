@@ -1,10 +1,9 @@
-package net.javaguides.banking.controller;
+package com.riksonpereira.banking.controller;
 
-import net.javaguides.banking.dto.AccountDto;
-import net.javaguides.banking.dto.TransactionDto;
-import net.javaguides.banking.dto.TransferFundDto;
-import net.javaguides.banking.entity.Account;
-import net.javaguides.banking.service.AccountService;
+import com.riksonpereira.banking.dto.AccountDto;
+import com.riksonpereira.banking.dto.TransactionDto;
+import com.riksonpereira.banking.dto.TransferFundDto;
+import com.riksonpereira.banking.service.AccountService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

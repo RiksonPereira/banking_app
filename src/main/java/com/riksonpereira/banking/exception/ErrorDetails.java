@@ -1,4 +1,4 @@
-package net.javaguides.banking.exception;
+package com.riksonpereira.banking.exception;
 
 import java.time.LocalDateTime;
 

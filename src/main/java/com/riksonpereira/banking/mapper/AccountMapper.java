@@ -1,7 +1,7 @@
-package net.javaguides.banking.mapper;
+package com.riksonpereira.banking.mapper;
 
-import net.javaguides.banking.dto.AccountDto;
-import net.javaguides.banking.entity.Account;
+import com.riksonpereira.banking.dto.AccountDto;
+import com.riksonpereira.banking.entity.Account;
 
 public class AccountMapper {
 

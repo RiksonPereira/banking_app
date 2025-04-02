@@ -1,6 +1,6 @@
-package net.javaguides.banking.repository;
+package com.riksonpereira.banking.repository;
 
-import net.javaguides.banking.entity.Transaction;
+import com.riksonpereira.banking.entity.Transaction;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

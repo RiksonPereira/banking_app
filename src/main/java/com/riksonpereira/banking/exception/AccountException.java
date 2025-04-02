@@ -1,4 +1,4 @@
-package net.javaguides.banking.exception;
+package com.riksonpereira.banking.exception;
 
 public class AccountException extends RuntimeException {
     public AccountException(String message) {

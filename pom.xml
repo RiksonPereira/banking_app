@@ -8,7 +8,7 @@
 		<version>3.2.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>net.javaguides</groupId>
+	<groupId>com.riksonpereira</groupId>
 	<artifactId>banking-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>banking-app</name>

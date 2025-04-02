@@ -1,8 +1,8 @@
-package net.javaguides.banking.service;
+package com.riksonpereira.banking.service;
 
-import net.javaguides.banking.dto.AccountDto;
-import net.javaguides.banking.dto.TransactionDto;
-import net.javaguides.banking.dto.TransferFundDto;
+import com.riksonpereira.banking.dto.AccountDto;
+import com.riksonpereira.banking.dto.TransactionDto;
+import com.riksonpereira.banking.dto.TransferFundDto;
 
 import java.util.List;
 

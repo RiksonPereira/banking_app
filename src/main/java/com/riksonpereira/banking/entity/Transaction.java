@@ -1,4 +1,4 @@
-package net.javaguides.banking.entity;
+package com.riksonpereira.banking.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

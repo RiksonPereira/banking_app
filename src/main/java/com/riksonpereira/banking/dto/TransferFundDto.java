@@ -1,4 +1,4 @@
-package net.javaguides.banking.dto;
+package com.riksonpereira.banking.dto;
 
 public record TransferFundDto(Long fromAccountId,
                               Long toAccountId,
